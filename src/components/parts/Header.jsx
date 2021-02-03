@@ -1,9 +1,13 @@
 import React from "react";
+import Sekolah from "../../assets/sekolah.png";
+import "../../components/Header.css";
 
 export default function header() {
 	return (
 		<>
-			<h1>Ini Header</h1>
+		<header>
+		
+			</header>
 		</>
 	);
 }
